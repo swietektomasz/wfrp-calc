@@ -1,0 +1,26 @@
+{
+  "miss": "Atakujący pudłuje, traci całą przewagę. Obrońca zyskuje punkt przewagi.",
+  "hit": "Atakujący trafił, zyskuje punkt przewagi. Obrońca traci całą przewagę.",
+  "attCrit": [
+    "Atakujący zalicza trafienie krytyczne, ",
+    "rzuć 1k100 by stwierdzić gdzie obrońca został trafiony, ",
+    "potem rzuć 1k100 i sprawdź efekt krytyczny na tabeli (str. 174). ",
+    "Obrońca traci PŻ z efektu, nieobniżone o PP czy BW. ",
+    "Jeżeli używasz Krytycznej Obrony, odejmij 1 PP z miejsca gdzie obrońca został trafiony. ",
+    "Obrońca dostaje krytyczną ranę i wszystkie efekty z tabeli. ",
+    "Jeżeli obrońca jest nieprzytomny, ma więcej ran krytycznych niż BW, umiera pod koniec tej rundy. "
+  ],
+  "defCrit": [
+    "Obrońca zalicza trafienie krytyczne.",
+    "Rzuć 1k100, by stwierdzić gdzie atakujący został trafiony, ",
+    "potem rzuć 1k100 i sprawdź efekt krytyczny na tabeli (str. 174).",
+    "Atakujący traci PŻ z efektu, nieobniżone o PP czy BW. ",
+    "Jeżeli używasz Krytycznej Obrony, odejmij 1 PP z miejsca gdzie atakujący został trafiony. ",
+    "Atakujący dostaje krytyczną ranę i wszystkie efekty z tabeli. ",
+    "Jeżeli atakujący jest nieprzytomny, ma więcej ran krytycznych niż BW, umiera pod koniec tej rundy. "
+  ],
+  "attOops": "Atakujący zalicza potknięcie, rzuć kośćmi i sprawdź wynik w tabeli na stronie 160",
+  "defOops": "Obrońca zalicza potknięcie, rzuć kośćmi i sprawdź wynik w tabeli na stronie 160",
+  "tie": "Wynik rzutów i umiejętności jest taki sam, atak kończy się remisem.",
+  "nothing": "Z jakiegoś powodu atak nie miał żadnego efektu."
+}
